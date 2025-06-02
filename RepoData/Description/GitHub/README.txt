@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🦅️📔️ Development notebooks for the LibreFlock project, designed earlier in the life of @seanpm2001 (prior to 2015)
